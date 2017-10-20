@@ -1,9 +1,11 @@
 # Header
 menu:
+  Projects: /projects
   Home: /
   Archives: /archives
-  Projects: /projects
   Publications: /publications
+  Academic Background: /academic-background
+  Professional Activities: /professional-activities
 rss: /atom.xml
 
 # Content

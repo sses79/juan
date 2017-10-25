@@ -1,0 +1,4 @@
+<% site.tags.findOne({name: 'sticky'}).posts.each(function(post){ %>
+<%- partial('_partial/article', {post: post, index: true}) %>
+<% }) %>
+<hr />

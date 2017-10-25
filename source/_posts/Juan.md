@@ -1,7 +1,7 @@
 ---
 title: Juan
 date: 2017-10-03 22:07:04
-tags:
+category: Latest Publications
 ---
-Today is good day.
+Demo publication.
 ### Head3

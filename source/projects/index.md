@@ -8,15 +8,14 @@ date: 2017-10-19 21:20:35
  - Her project has won the best final year student at [10th BCSWomen Lovelace Colloquium 2017](http://www.hannahdee.eu/blog/?p=1586).
 - 2015 SH project on "Capturing social cues in face-to-face conversation for the visually-impaired"
  - Student: Lauren Murray
- - ![Lauren Murray](https://sites.google.com/site/juanyeresearch/_/rsrc/1461913909888/Home/projects/IMG_20160418_151702%20copy.jpg?height=137&width=200)
  - This work will be presented at the international workshop of BodySenseUX@UbiComp 2016, Germany, in September 2016.
- - Paper is available at: [pdf](https://sites.google.com/site/juanyeresearch/bodySenseUX.pdf?attredirects=0&d=1)
+ - Paper is available at: [pdf](https://dl.acm.org/citation.cfm?id=2968260)
 - 2015 SH Project on "Pedestrian fear detection using gait analysis on smartphones"
  - Student: Tom Morrell
  - Saker on App Store: http://saker.io
  - His project has won the travel scholarship to WWDC 16 - the Apple Worldwide Developers Conference.
  - His poster below has won the best poster in the school [-Link-](https://blogs.cs.st-andrews.ac.uk/csblog/2016/04/26/senior-honours-poster-presentation-and-demo-session-2016/?utm_medium=twitter&utm_source=twitterfeed)
- - His work has been presented at the conference on [Emerging priorities in mental health and addiction: the Virtual World, Ageing and Migration](https://enterepmhe2016.wordpress.com/). St Andrews, Scotland, 3rd June 2016. [-link-](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqdWFueWVyZXNlYXJjaHxneDoxMDNiZTIwYmYxMmIzZjI1)
+ - His work has been presented at the conference on [Emerging priorities in mental health and addiction: the Virtual World, Ageing and Migration](https://enterepmhe2016.wordpress.com/). St Andrews, Scotland, 3rd June 2016.
 - 2014 SH project on "Behaviour change intervention for problematic mobile phone use in social situations"
  - Student: Thomas Eddie
  - The work has been presented at the International Workshop on Intelligent Attention Management on Mobile Devices, cohosted with MobileHCI 2015. Copenhagen, Denmark, 24th August 2015.
@@ -56,9 +55,9 @@ The goal of this project is the development of computer algorithms for visual-to
 
 #### Past Research Projects
 - 2009-present "Autonomic Sensor Communities" in [CLARITY](http://www.clarity-center.org/) Project
-- 2008-2009 "[Situation Lattices](https://sites.google.com/site/juanyeresearch/Home/situation-lattice)" to systematically study the semantics of information flow in pervasive computing systems.
-- 2007 "[Location in Pervasive Computing](https://sites.google.com/site/juanyeresearch/Home/location-in-pervasive-computing)", a unified semantic spatial model to represent all types of location information and their spatial relationships.
-- 2006 "[Ontology Models in Pervasive Computing](https://sites.google.com/site/juanyeresearch/Home/ontology-models-in-pervasive-computing)", an ontology-based context model for pervasive computing systems.
+- 2008-2009 "Situation Lattices" to systematically study the semantics of information flow in pervasive computing systems.
+- 2007 "Location in Pervasive Computing", a unified semantic spatial model to represent all types of location information and their spatial relationships.
+- 2006 "Ontology Models in Pervasive Computing", an ontology-based context model for pervasive computing systems.
 
 
 
